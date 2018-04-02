@@ -1,8 +1,6 @@
 # TwitSplit
 Assignment round in Dwarves Foundation
 
-This project is a my interview assignment at Dwarves Foundation.
-
 ## Description
 The product Tweeter allows users to post short messages limited to 50 characters each.
 Sometimes, users get excited and write messages longer than 50 characters.
