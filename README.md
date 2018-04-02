@@ -19,6 +19,8 @@ Each message is now 49 characters, each within the allowed limit.
 
 ## Project Focus
 Result returned from Slip message function in project is a List message with multiple part.
+ex: ["1/2 I can't believe Tweeter now supports chunking", "2/2 my messages, so I don't have to do it myself."]
+
 1. Split message function: Using recursive, re-calculate total part, re-render prefix indicator. [Here](https://github.com/taindb/TwitSplit/edit/master/README.md)
 
 2. Unit Test [Here](https://github.com/taindb/TwitSplit/edit/master/README.md)
