@@ -22,9 +22,9 @@ Result returned from Slip message function in project is a List message with mul
 
 ex: ["1/2 I can't believe Tweeter now supports chunking", "2/2 my messages, so I don't have to do it myself."]
 
-1. Split message function: Using recursive, re-calculate total part, re-render prefix indicator. [Here](https://github.com/taindb/TwitSplit/edit/master/README.md)
+1. Split message function: Using recursive, re-calculate total part, re-render prefix indicator. [Here](https://github.com/taindb/TwitSplit/blob/master/app/src/main/java/com/taindb/twitsplit/utils/StringUtils.java)
 
-2. Unit Test [Here](https://github.com/taindb/TwitSplit/edit/master/README.md)
+2. Unit Test [Here](https://github.com/taindb/TwitSplit/blob/master/app/src/test/java/com/taindb/twitsplit/TwitSplitUnitTest.java)
 
 3. MVP Architecture.
 
