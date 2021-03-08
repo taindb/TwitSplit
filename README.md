@@ -1,6 +1,3 @@
-# TwitSplit
-Assignment round in Dwarves Foundation
-
 ## Description
 The product Tweeter allows users to post short messages limited to 50 characters each.
 Sometimes, users get excited and write messages longer than 50 characters.
